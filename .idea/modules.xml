@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vezaratrahflutter/vezaratrahflutter.iml" filepath="$PROJECT_DIR$/vezaratrahflutter/vezaratrahflutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vezaratrahflutter/android/vezaratrahflutter_android.iml" filepath="$PROJECT_DIR$/vezaratrahflutter/android/vezaratrahflutter_android.iml" />
+    </modules>
+  </component>
+</project>
